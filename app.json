@@ -10,7 +10,7 @@
     "OWNERS": {
       "description": "owner numbers",
       "required": true,
-      "value": "254743706010;𝐒𝐈𝐋𝐕𝐀 𝐌𝐃 𝐁𝐎𝐓"
+      "value": "254715155196;𝐒𝐈𝐋𝐕𝐀 𝐌𝐃 𝐁𝐎𝐓"
     },
     "BOTNAME": {
       "description": "Give your BOT a name",
@@ -20,7 +20,7 @@
     "SESSION_ID": {
       "description": "your session id. get session here https://silva-session-selector.vercel.app/",
       "required": true,
-      "value": ""
+      "value": "ZoZBCBKL#2MjU8vX6Rut-Z9iRxkMK99VTGE8IpGvn1hKcIPvCCpM"
     },
     "MODE": {
       "description": "mode public or private",
@@ -30,7 +30,7 @@
     "PREFIX": {
       "description": "put any one symbol here except @ and + , leave it Blank if you want to use multiple prefix",
       "required": true,
-      "value": "."
+      "value": ""
     },
     "statusview": {
       "description": "make it true if you want bot to view status",
@@ -40,17 +40,17 @@
     "autoRead": {
       "description": "make it true or false if you want bot to read messages leave it blank if you don't want it to read messages",
       "required": false,
-      "value": ""
+      "value": "false"
       },
     "AUTO_RECORDING": {
       "description": "make it true or false. true to activate false to deactivate",
       "required": false,
-      "value": "true"
+      "value": "false"
        },
     "AUTO_TYPING": {
       "description": "make it true or false. true to activate false to deactivate",
       "required": false,
-      "value": "true"
+      "value": "false"
        },
     "AUTO_STATUS_LIKE": {
       "description": "make it true or false. true to activate false to deactivate",
@@ -60,7 +60,7 @@
     "AUTO_STATUS_LIKE_EMOJI": {
       "description": "customize to any emoji you need 💚",
       "required": false,
-      "value": "🦋"
+      "value": "🦋,🤗"
        },
     "STATUS_REPLY": {
       "description": "make it true or false. true to activate false to deactivate",
@@ -75,7 +75,7 @@
     "antidelete": {
       "description": "bot will forward deleted messages if you make it true",
       "required": false,
-      "value": "true"
+      "value": "false"
     }
     },
     "buildpacks": [
